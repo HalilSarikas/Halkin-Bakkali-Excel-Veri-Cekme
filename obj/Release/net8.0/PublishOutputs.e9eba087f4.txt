@@ -1,0 +1,6 @@
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\HalkinBakkali.exe
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\HalkinBakkali.dll
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\HalkinBakkali.deps.json
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\HalkinBakkali.runtimeconfig.json
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\HalkinBakkali.pdb
+C:\Users\xReadyShoots\Desktop\Yeni klasör (2)\MiniExcel.dll

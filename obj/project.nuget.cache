@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZoBPimRg7jAksRRUhnZk5Lh9DbvTCKbJs98LrOjcep+EbnW5wysx2+IEuGQ2M6FiQvFoMndb06/QWOB/Kd+9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xReadyShoots\\source\\repos\\HalkinBakkali\\HalkinBakkali\\HalkinBakkali.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xReadyShoots\\.nuget\\packages\\miniexcel\\1.31.3\\miniexcel.1.31.3.nupkg.sha512"
+  ],
+  "logs": []
+}

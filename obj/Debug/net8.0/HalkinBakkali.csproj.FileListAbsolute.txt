@@ -1,0 +1,17 @@
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\HalkinBakkali.exe
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\HalkinBakkali.deps.json
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\HalkinBakkali.runtimeconfig.json
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\HalkinBakkali.dll
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\HalkinBakkali.pdb
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.AssemblyInfoInputs.cache
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.AssemblyInfo.cs
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.csproj.CoreCompileInputs.cache
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.dll
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\refint\HalkinBakkali.dll
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.pdb
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.genruntimeconfig.cache
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\ref\HalkinBakkali.dll
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\bin\Debug\net8.0\MiniExcel.dll
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.csproj.AssemblyReference.cache
+C:\Users\xReadyShoots\source\repos\HalkinBakkali\HalkinBakkali\obj\Debug\net8.0\HalkinBakkali.csproj.CopyComplete

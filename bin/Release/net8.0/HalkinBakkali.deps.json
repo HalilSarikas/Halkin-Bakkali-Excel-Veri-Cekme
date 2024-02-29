@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HalkinBakkali/1.0.0": {
+        "dependencies": {
+          "MiniExcel": "1.31.3"
+        },
+        "runtime": {
+          "HalkinBakkali.dll": {}
+        }
+      },
+      "MiniExcel/1.31.3": {
+        "runtime": {
+          "lib/netstandard2.0/MiniExcel.dll": {
+            "assemblyVersion": "1.31.3.0",
+            "fileVersion": "1.31.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HalkinBakkali/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniExcel/1.31.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XnGF7oq3bFAzvvZrAiAPtpeQxWkFy7Xk/Vaom97bnj8hlF5TcP6rxS43RdO5wA8nUkRYfBmQe9chhhv0jwwj4A==",
+      "path": "miniexcel/1.31.3",
+      "hashPath": "miniexcel.1.31.3.nupkg.sha512"
+    }
+  }
+}
